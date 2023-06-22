@@ -1,2 +1,2 @@
-# slider
+# Slider
 Work in Progress
