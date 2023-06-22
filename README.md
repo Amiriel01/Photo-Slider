@@ -1,2 +1,2 @@
-# Slider
-Work in Progress
+# Photo Slider
+
