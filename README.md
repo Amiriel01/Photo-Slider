@@ -1,6 +1,6 @@
 # Photo Slider
 
-I build a photo slider using JavaScript, CSS, and HTML. 
+I built a photo slider using JavaScript, CSS, and HTML. 
 
 ![](images/finished.png)
 
